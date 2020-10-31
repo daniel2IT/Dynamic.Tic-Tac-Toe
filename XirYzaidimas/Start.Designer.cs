@@ -52,7 +52,7 @@
             // checkBoxFor0
             // 
             this.checkBoxFor0.AutoSize = true;
-            this.checkBoxFor0.Location = new System.Drawing.Point(123, 147);
+            this.checkBoxFor0.Location = new System.Drawing.Point(135, 147);
             this.checkBoxFor0.Name = "checkBoxFor0";
             this.checkBoxFor0.Size = new System.Drawing.Size(38, 21);
             this.checkBoxFor0.TabIndex = 1;
@@ -64,22 +64,22 @@
             this.textBoxX.Location = new System.Drawing.Point(30, 84);
             this.textBoxX.Multiline = true;
             this.textBoxX.Name = "textBoxX";
-            this.textBoxX.Size = new System.Drawing.Size(57, 38);
+            this.textBoxX.Size = new System.Drawing.Size(69, 38);
             this.textBoxX.TabIndex = 2;
             // 
             // textBoxY
             // 
-            this.textBoxY.Location = new System.Drawing.Point(123, 84);
+            this.textBoxY.Location = new System.Drawing.Point(135, 84);
             this.textBoxY.Multiline = true;
             this.textBoxY.Name = "textBoxY";
-            this.textBoxY.Size = new System.Drawing.Size(57, 38);
+            this.textBoxY.Size = new System.Drawing.Size(72, 38);
             this.textBoxY.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(93, 93);
+            this.label1.Location = new System.Drawing.Point(105, 93);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(24, 29);
             this.label1.TabIndex = 4;
@@ -87,9 +87,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(30, 197);
+            this.button1.Location = new System.Drawing.Point(42, 197);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(150, 42);
+            this.button1.Size = new System.Drawing.Size(165, 42);
             this.button1.TabIndex = 5;
             this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = true;
@@ -99,7 +99,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(9, 19);
+            this.label2.Location = new System.Drawing.Point(23, 19);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(205, 38);
             this.label2.TabIndex = 6;
@@ -110,7 +110,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(234, 255);
+            this.ClientSize = new System.Drawing.Size(254, 264);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);

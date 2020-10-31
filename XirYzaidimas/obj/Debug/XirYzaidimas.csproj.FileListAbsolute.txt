@@ -8,14 +8,4 @@ C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.cs
 C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.exe
 C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.pdb
 C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.Start.resources
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\bin\Debug\XirYzaidimas.exe.config
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\bin\Debug\XirYzaidimas.exe
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\bin\Debug\XirYzaidimas.pdb
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.csprojAssemblyReference.cache
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.Form1.resources
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.Properties.Resources.resources
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.Start.resources
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.csproj.GenerateResource.cache
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.csproj.CoreCompileInputs.cache
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.exe
-C:\Users\Daniel\Desktop\Tic-Tac-Toe-main\XirYzaidimas\obj\Debug\XirYzaidimas.pdb
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.csproj.CoreCompileInputs.cache

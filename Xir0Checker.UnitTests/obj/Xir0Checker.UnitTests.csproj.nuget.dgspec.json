@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj": {}
+    "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj",
         "projectName": "Xir0Checker.UnitTests",
-        "projectPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Xir0Checker.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\Xir0Checker.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\XirYzaidimas\\XirYzaidimas.csproj": {
-                "projectPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\XirYzaidimas\\XirYzaidimas.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\XirYzaidimas\\XirYzaidimas.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\XirYzaidimas\\XirYzaidimas.csproj"
               }
             }
           }
@@ -74,11 +74,11 @@
         }
       }
     },
-    "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\XirYzaidimas\\XirYzaidimas.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\XirYzaidimas\\XirYzaidimas.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\XirYzaidimas\\XirYzaidimas.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\XirYzaidimas\\XirYzaidimas.csproj",
         "projectName": "XirYzaidimas",
-        "projectPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\XirYzaidimas\\XirYzaidimas.csproj"
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Tic-Tac-Toe\\XirYzaidimas\\XirYzaidimas.csproj"
       },
       "frameworks": {
         "net472": {}

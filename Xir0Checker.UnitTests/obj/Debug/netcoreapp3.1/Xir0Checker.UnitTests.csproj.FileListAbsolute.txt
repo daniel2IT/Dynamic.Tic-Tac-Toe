@@ -96,3 +96,4 @@ C:\Users\Daniel\source\repos\XirYzaidimas\Xir0Checker.UnitTests\obj\Debug\netcor
 C:\Users\Daniel\source\repos\XirYzaidimas\Xir0Checker.UnitTests\obj\Debug\netcoreapp3.1\Xir0Checker.UnitTests.dll
 C:\Users\Daniel\source\repos\XirYzaidimas\Xir0Checker.UnitTests\obj\Debug\netcoreapp3.1\Xir0Checker.UnitTests.pdb
 C:\Users\Daniel\source\repos\XirYzaidimas\Xir0Checker.UnitTests\obj\Debug\netcoreapp3.1\Xir0Checker.UnitTests.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\XirYzaidimas\Xir0Checker.UnitTests\obj\Debug\netcoreapp3.1\Xir0Checker.UnitTests.csproj.CoreCompileInputs.cache

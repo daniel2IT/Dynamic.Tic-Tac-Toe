@@ -314,7 +314,7 @@ namespace XirYzaidimas
                         checkerDiagonalRightToLeft("0");
 
 
-            //check3x3();
+           // check3x3();
 
             if (padarytiZingsniai == isVisoZingsniu)
             {
