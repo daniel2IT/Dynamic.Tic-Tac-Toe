@@ -65,7 +65,7 @@
 ### In the project, you can activate such a function as 3x3 win, regardless of grid size 3x3 coincidence wins... 
 
 ![Game End](images/3x3GameWinner.png)
-![Game End](images/3x3Win.png.png)
+![3x3 Win](images/3x3Win.png)
 
 
 ## What About Tests:
