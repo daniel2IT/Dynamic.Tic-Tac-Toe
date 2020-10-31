@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\bin\Debug\XirYzaidimas.exe.config
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\bin\Debug\XirYzaidimas.exe
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\bin\Debug\XirYzaidimas.pdb
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.Form1.resources
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.Properties.Resources.resources
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.exe
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.pdb
+C:\Users\Daniel\source\repos\XirYzaidimas\XirYzaidimas\obj\Debug\XirYzaidimas.Start.resources
