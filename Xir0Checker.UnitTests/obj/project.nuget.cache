@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jvgvu8wk/8GDhLQ4DhEhSkF8LF827JbgFagoL1vrm8Z0eIiRaifFRjc+WpNnr+SUOWKcAS5IUbzz/4VbmQ4lLw==",
+  "dgSpecHash": "KvlQ4FYGVuRpypo/Htg+M/CpFFXElh8fgZNae+h3k/SsKVcADS8TgdT5nZej1cF2Ax4a47eVy8IM0CBI44segg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\XirYzaidimas\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Tic-Tac-Toe-main\\Xir0Checker.UnitTests\\Xir0Checker.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
