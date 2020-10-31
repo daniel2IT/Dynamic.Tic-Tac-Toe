@@ -33,7 +33,6 @@
 ### More About
 
 [AI in a dynamic Tic-Tac-Toe Game](https://www.gamedev.net/forums/topic/482376-ai-in-a-dynamic-tic-tac-toe-game/)
-
 ===
 
 ## First Of All
@@ -60,7 +59,6 @@
 ### Here You are (4x4 grid) !
 
 ![Start Menu](images/4x4GameAfterStart.png)
-
 ===
 
 ### Game Ends by 5 Rules:
@@ -70,7 +68,6 @@
 - Diagonal From Left To Right
 - Diagonal from Right To Left
 
-===
 
 ### One Of The Game End Actions ex.
 ![Game End](images/ProjectGameEndWInning.png)
