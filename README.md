@@ -58,7 +58,12 @@
 
 ![Start Menu](images/4x4GameAfterStart.png)
 
-### Game Ends by 5 Rules ( Draw / Row / Column / Diagonal From Left To Right / Diagonal from Right To Left )
+### Game Ends by 5 Rules:
+- Draw
+- Row
+- Column
+- Diagonal From Left To Right
+- Diagonal from Right To Left
 
 ![Game End](images/ProjectGameEndWInning.png)
 
