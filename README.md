@@ -84,7 +84,7 @@
 ![Game End](images/ProjectTests.png)
 
 
-## PARTICIPATED/CONTACT
+## PARTICIPATED
 
 
 <table align="center">
