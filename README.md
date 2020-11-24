@@ -86,5 +86,10 @@
 
 ## PARTICIPATED/CONTACT
 
-- Daniel - [Developer](https://www.greatsampleresume.com/job-responsibilities/it-developer-responsibilities/) - *daniel.vaskevic123@gmail.com*
+
+<table align="center">
+    <tr>
+      <td align="center"><a href="https://github.com/daniel2IT"><img src="https://avatars3.githubusercontent.com/u/50612327?s=460&u=1614a57bfccd4ca1ee28e5920200b3b0f9bf15df&v=4" width="100px;" alt=""/><br /><sub><b>daniel2IT</b></sub></a><br /><a href="#maintenance-dsabanin" title="Maintenance">💻💬🔍👀</a></td>
+    </tr>
+</table>
 
